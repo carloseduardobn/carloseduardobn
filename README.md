@@ -15,9 +15,6 @@ Tenho 19 anos e sou estudante de Ciência da Computação, com o objetivo de me 
 
 ---
 
-## 📊 Status  
-![Stats](https://github-readme-stats.vercel.app/api?username=carloseduardobn&show_icons=true&theme=tokyonight)
-
 ## 💻 Linguagens  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardobn&layout=compact&theme=tokyonight)
 
