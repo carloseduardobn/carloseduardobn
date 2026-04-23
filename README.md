@@ -1,13 +1,26 @@
-# 👋 Olá, eu sou o Carlos
+# 👋 Olá, eu sou o Carlos Narciso  
 
-## 📊 Status
-![Stats](https://github-readme-stats.vercel.app/api?username=carloseduardobn&show_icons=true&theme=tokyonight)
+🎨 Designer Gráfico & 💻 Desenvolvedor Frontend  
 
-## 💻 Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardobn&layout=compact&theme=tokyonight)
+Tenho 19 anos e sou estudante de Ciência da Computação, com o objetivo de me tornar desenvolvedor Fullstack. Atualmente estou focado em Frontend, desenvolvendo interfaces modernas e responsivas com atenção à performance, usabilidade e boas práticas.
 
-## 🌐 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/carloseduardobn)
+---
+
+## 🚀 Tecnologias  
+- HTML5  
+- CSS3  
+- JavaScript  
+- Figma
+- C#  
+
+---
+
+## 📊 Status  
+![Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
+
+## 💻 Linguagens  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
+
 
 <!--
 **carloseduardobn/carloseduardobn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
