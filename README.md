@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Carlos Narciso  
+# 👋 Olá, eu sou o Carlos Eduardo 
 
-🎨 Designer Gráfico & 💻 Desenvolvedor Frontend  
+Estudante de Ciência da Computação | Front-end em evolução | Design gráfico e social media
 
 Tenho 19 anos e sou estudante de Ciência da Computação, com o objetivo de me tornar desenvolvedor Fullstack. Atualmente estou focado em Frontend, desenvolvendo interfaces modernas e responsivas com atenção à performance, usabilidade e boas práticas.
 
